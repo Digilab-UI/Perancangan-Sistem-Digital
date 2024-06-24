@@ -1,1 +1,14 @@
-# Perancangan-Sistem-Digital
+# Welcome to ~~HELL~~ the Perancangan-Sistem-Digital wiki!
+VHDL merupakan singkatan dari VHSIC HDL atau lebih lengkapnya Very High-Speed Integrated Circuit Hardware Description Language. VHDL merupakan bahasa yang digunakan untuk mendeskripsikan suatu hardware sehingga cara penulisanya tidak bisa disamakan dengan high/low level programming language. Model atau program dari VHDL dapat diterjemahkan menjadi rangkaian digital yang sebenarnya dengan bantuan software dengan cepat dan tentu saja sesuai dengan kebutuhan, proses ini dikenal dengan sebutan sintesis. Hasil rangkaian tersebut juga dapat diuji dengan menggunakan VHDL untuk memastikan rangkaian dapat bekerja sesuai dengan kebutuhan pengguna. Sebelum lanjut ke materi utama, diingatkan kembali kepada pembaca untuk memahami konsep dari Dasar Rangkaian Digital (DSD) demi kenyamanan dalam mendeskripsikan dan merancang hardware.
+
+## Peran VHDL dalam Desain Hardware
+Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Relevansi VHDL dalam Kehidupan Sehari-hari
+Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Pentingnya VHDL dalam Pembelajaran dan Pembuatan Chip/Prosesor
+Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Sektor Pekerjaan yang Membutuhkan Kemampuan VHDL
+Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
